@@ -1,12 +1,13 @@
 {
   "Id": "ZSounds",
-  "DisplayName": "Zeibach's Sounds",
+  "DisplayName": "Zeibach's Sounds2- GlacierPark19 Edition",
   "Author": "Zeibach",
-  "Version": "1.4.2",
+  "Author 2": "GlacierPark19",
+  "Version": "1.0",
   "ManagerVersion": "0.22.14.0",
   "LoadAfter": ["DVCustomCarLoader"],
   "AssemblyName": "ZSounds.dll",
   "EntryMethod": "DvMod.ZSounds.Main.Load",
-  "HomePage": "https://www.nexusmods.com/derailvalley/mods/249",
-  "Repository": "https://raw.githubusercontent.com/mspielberg/dv-zsounds/master/resources/repository.json"
+  "HomePage": "TODO: Add this",
+  "Repository": "https://raw.githubusercontent.com/GlacierPark19/dv-zsounds/master/resources/repository.json"
 }
